@@ -114,9 +114,9 @@
 (script-fu-register "script-fu-sg-mean-fill"
   "Mean Fill"
   "Fill contiguous regions with the average of the region"
-  "Saul Goode"
-  "Saul Goode"
-  "4/21/2010"
+  "Raphael Sprenger"
+  "Raphael Sprenger"
+  "12/14/2015"
   "RGB*"
   SF-IMAGE "Image" 0
   SF-DRAWABLE "Drawable" 0
